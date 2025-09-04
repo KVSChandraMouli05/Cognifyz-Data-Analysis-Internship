@@ -1,0 +1,16 @@
+# Cognifyz Technologies - Data Analysis Internship
+This repository contains my internship project completed at ""Cognifyz Technologies"" as part of the Data Analysis Internship.  
+The goal of this project was to analyze restaurant data to gain insights into customer ratings, geographic distribution, and review patterns.  
+
+I worked on "Level 2" and "Level 3" tasks, focusing on data visualization, insights generation, and advanced analysis using Python libraries such as Pandas, Matplotlib, and Seaborn.
+
+
+## Tasks Completed
+
+### Level 2
+- ""Restaurant Ratings"": Analyzed the distribution of aggregate ratings.  
+- ""Geographic Analysis"": Visualized restaurants by country and city.  
+
+### Level 3
+- ""Restaurant Reviews"": Explored rating texts and their relationship with ratings.  
+- ""Votes Analysis"": Studied how customer votes correlate with restaurant ratings.
